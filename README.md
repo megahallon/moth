@@ -1,3 +1,1 @@
-Repository moved to
-
-    https://github.com/seerelectronics/t1
+Repository moved to <https://github.com/seerelectronics/t1>
